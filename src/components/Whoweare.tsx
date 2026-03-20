@@ -10,12 +10,12 @@ export default function About() {
         <div className="relative h-125 w-full bg-stone-100 rounded-[40px] overflow-hidden shadow-sm">
           {/* Aquí puedes poner una imagen de tu marca */}
           <div className="absolute inset-0 flex items-center justify-center text-black italic">
-            [ Imagen de Marca Naroa ]
+            [ Imagen de Marca Legado Solis ]
           </div>
           {/* Cuando tengas la imagen real, usa:
             <Image 
-              src="/images/about-naroa.jpg" 
-              alt="Sobre Naroa" 
+              src="/images/about-legado-solis.jpg" 
+              alt="Sobre Legado Solis" 
               fill 
               className="object-cover"
             /> 
@@ -35,7 +35,7 @@ export default function About() {
 
           <div className="space-y-6 text-stone-600 leading-relaxed text-lg font-light">
             <p>
-              En <strong className="font-medium text-stone-900">Naroa</strong>, la madera no solo se trabaja, se honra. Cada pieza nace de la experiencia, el detalle y el respeto por el oficio. Nos alejamos de lo superficial para enfocarnos en lo esencial: <strong className='font-medium text-stone-900'>calidad, durabilidad y acabados que hablan por sí solos.</strong>
+              En <strong className="font-medium text-stone-900">Legado Solis</strong>, la madera no solo se trabaja, se honra. Cada pieza nace de la experiencia, el detalle y el respeto por el oficio. Nos alejamos de lo superficial para enfocarnos en lo esencial: <strong className='font-medium text-stone-900'>calidad, durabilidad y acabados que hablan por sí solos.</strong>
             </p>
             <p>
               Con más de 50 años de trayectoria, creamos soluciones en madera que no siguen tendencias, sino que permanecen en el tiempo. Cada corte, cada unión y cada acabado reflejan lo mismo: <strong className='font-medium text-stone-900'>un legado construido a mano.</strong>

@@ -3,8 +3,8 @@ import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 
 export const metadata = {
-  title: 'Mujeres | Naroa',
-  description: 'Colección minimalista para mujeres de Naroa',
+  title: 'Mujeres | Legado Solis',
+  description: 'Colección minimalista para mujeres de Legado Solis',
 };
 
 export default function WomanPage() {

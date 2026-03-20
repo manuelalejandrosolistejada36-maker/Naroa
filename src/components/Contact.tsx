@@ -15,7 +15,7 @@ export default function Contact() {
 
     // Configuración del número y mensaje
     const telefono = "51967617047";
-    const mensajeTexto = `Hola Naroa, mi nombre es ${formData.nombre}. Mi consulta es: ${formData.consulta}`;
+    const mensajeTexto = `Hola Legado Solis, mi nombre es ${formData.nombre}. Mi consulta es: ${formData.consulta}`;
     
     // Codificar el mensaje para URL
     const url = `https://wa.me/${telefono}?text=${encodeURIComponent(mensajeTexto)}`;

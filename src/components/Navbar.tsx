@@ -31,7 +31,7 @@ const Navbar = () => {
           <h1 className={`text-2xl font-bold tracking-tighter transition-colors duration-500 ${
             scrolled ? 'text-black' : 'text-stone-800'
           }`}>
-            Naroa
+            Legado Solis
           </h1>
         </Link>
 
