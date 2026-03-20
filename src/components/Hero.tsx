@@ -13,7 +13,7 @@ const Hero = () => {
         <h2 className="text-xl md:text-2xl font-light tracking-widest uppercase mb-4 text-stone-600">Nueva Colección</h2>
         <h1 className="text-5xl md:text-7xl font-bold mb-8 text-stone-900 tracking-tight">Legado Solis</h1>
         <p className="text-lg md:text-xl text-stone-700 mb-10 max-w-2xl mx-auto">
-          Mas de 50 años creando piezas en madera que perduran en el tiempo. Descubre la esencia de nuestro legado.
+          Más de 50 años creando piezas en madera que perduran en el tiempo. Descubre la esencia de nuestro legado.
         </p>
       </div>
     </section>
