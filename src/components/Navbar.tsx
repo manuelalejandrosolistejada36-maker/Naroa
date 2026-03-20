@@ -31,7 +31,7 @@ const Navbar = () => {
           <h1 className={`text-2xl font-bold tracking-tighter transition-colors duration-500 ${
             scrolled ? 'text-black' : 'text-stone-800'
           }`}>
-            NAROA
+            Legado Solis
           </h1>
         </Link>
 
@@ -40,8 +40,7 @@ const Navbar = () => {
           scrolled ? 'text-black/90' : 'text-stone-600'
         }`}>
             <Link href="/#whoweare" className="hover:opacity-70 transition">Quienes Somos</Link>
-          <Link href="/hombres" className="hover:opacity-70 transition">Hombres</Link>
-          <Link href="/mujeres" className="hover:opacity-70 transition">Mujeres</Link>
+          <Link href="/hombres" className="hover:opacity-70 transition">Catalogo</Link>
           <Link href="/#contacto" className="hover:opacity-70 transition">Contacto</Link>
         </div>
 
@@ -76,8 +75,7 @@ const Navbar = () => {
       }`}>
         <div className="flex flex-col items-center gap-6 text-stone-800 font-medium text-lg">
           <Link href="/#whoweare" className="hover:opacity-70 transition" onClick={() => setIsMobileMenuOpen(false)}>Quienes Somos</Link>
-          <Link href="/hombres" className="hover:opacity-70 transition" onClick={() => setIsMobileMenuOpen(false)}>Hombres</Link>
-          <Link href="/mujeres" className="hover:opacity-70 transition" onClick={() => setIsMobileMenuOpen(false)}>Mujeres</Link>
+          <Link href="/hombres" className="hover:opacity-70 transition" onClick={() => setIsMobileMenuOpen(false)}>Catalogo</Link>
           <Link href="/#contacto" className="hover:opacity-70 transition" onClick={() => setIsMobileMenuOpen(false)}>Contacto</Link>
         </div>
       </div>

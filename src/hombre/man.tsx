@@ -4,14 +4,12 @@ import { useState, useRef } from 'react';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
 
 const categoriasMan = [
-  { id: 'chompas', nombre: 'Chompas' },
-  { id: 'sudaderas', nombre: 'Sudaderas' },
-  { id: 'camisas', nombre: 'Camisas' },
-  { id: 'polos', nombre: 'Polos' },
-  { id: 'casacas', nombre: 'Casacas' },
-  { id: 'zapatos', nombre: 'Zapatos' },
-  { id: 'sandalias', nombre: 'Sandalias' },
-  { id: 'zapatillas', nombre: 'Zapatillas' },
+  { id: 'reposteros', nombre: 'Reposteros' },
+  { id: 'closet', nombre: 'Closet' },
+  { id: 'veladores', nombre: 'Veladores' },
+  { id: 'camarotes', nombre: 'Camarotes' },
+  { id: 'escritorios', nombre: 'Escritorios' },
+  { id: 'zapateros', nombre: 'Zapateros' },
 ];
 
 export default function ManSection() {
@@ -35,10 +33,10 @@ export default function ManSection() {
       {/* Encabezado de Sección */}
       <header className="max-w-7xl mx-auto mb-16">
         <h1 className="text-5xl font-light tracking-tighter text-stone-900 mb-4">
-          HOMBRES
+          CADA PIEZA CUENTA UNA HISTORIA
         </h1>
         <p className="text-stone-500 max-w-md font-light">
-          Elegancia masculina pensada para cada ocasión, descubre nuestra colección diseñada para el hombre moderno que valora la simplicidad y el estilo atemporal.
+          La elegancia de la madera en su forma más pura. Pensada para quienes entienden que el verdadero estilo está en la simplicidad y la durabilidad.
         </p>
       </header>
 

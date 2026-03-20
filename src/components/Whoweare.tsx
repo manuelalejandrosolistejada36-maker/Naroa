@@ -29,16 +29,16 @@ export default function About() {
               Nuestra Esencia
             </h2>
             <h3 className="text-4xl md:text-5xl font-light text-stone-900 leading-tight">
-              Diseño consciente para el <span className="italic">estilo moderno.</span>
+              50 años haciendo de la madera un <span className="italic">legado.</span>
             </h3>
           </div>
 
           <div className="space-y-6 text-stone-600 leading-relaxed text-lg font-light">
             <p>
-              En <strong className="font-medium text-stone-900">Naroa</strong>, creemos que la moda no solo se trata de vestir, sino de expresar una identidad clara y minimalista. Nos alejamos del ruido visual para centrarnos en lo que realmente importa: la calidad, la forma y la comodidad.
+              En <strong className="font-medium text-stone-900">Legado Solis</strong>, la madera no solo se trabaja, se honra. Cada pieza nace de la experiencia, el detalle y el respeto por el oficio. Nos alejamos de lo superficial para enfocarnos en lo esencial: <strong className='font-medium text-stone-900'>calidad, durabilidad y acabados que hablan por sí solos.</strong>
             </p>
             <p>
-              Nuestra colección nace de la necesidad de ofrecer prendas versátiles que trasciendan las temporadas. Cada costura y cada tejido son seleccionados para garantizar una experiencia táctil y visual excepcional, tanto para hombres como para mujeres.
+              Con más de 50 años de trayectoria, creamos soluciones en madera que no siguen tendencias, sino que permanecen en el tiempo. Cada corte, cada unión y cada acabado reflejan lo mismo: <strong className='font-medium text-stone-900'>un legado construido a mano.</strong>
             </p>
           </div>
 
